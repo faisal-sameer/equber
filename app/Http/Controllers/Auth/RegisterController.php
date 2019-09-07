@@ -66,7 +66,7 @@ class RegisterController extends Controller
     {
       
 
-        $s =  User::create([
+        return User::create([
             'name' => $data['name'],
             'email' => $data['email'],
             'password' => Hash::make($data['password']),
@@ -80,10 +80,5 @@ class RegisterController extends Controller
     }
 
     
-    public function send($email){
-        Mail::send(['text'=>'testEmail'],['name','Abdulaziz'], function($message){
-            $message->to($email,'to you ')->subject('Test Login');
-            $message->from('ezooag@gmail.com','azo');
-        });
-    }
+
 }
