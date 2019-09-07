@@ -21,11 +21,23 @@
 ul li {
     padding: 20px !important;
     font-weight: bold;
+    font-size: 0.5cm;
 }
 .card {
     transition: .5s;
+    
 }
 .card:hover {
     transform: scale(1.05);
     transition: .5s;
+}
+
+#pic1{
+   font-weight: bold;
+    font-size: 230%;
+}
+
+.pic{
+ width: 20%;
+margin:auto;
 }
