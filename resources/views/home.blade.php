@@ -14,6 +14,10 @@
                         </div>
                     @endif
 
+                    @if(Auth::user()->name == 0)
+                    Please check your Email and active your account !!
+                    @endif
+
                     You are logged in!
                 </div>
             </div>
