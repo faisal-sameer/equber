@@ -16,7 +16,7 @@
         <div class="col s12 m4">
             <div class="card">
                 <div class="card-content">
-                    <div class="card-title green white-text">
+                    <div class="card-title blue white-text">
                         <h3>صاحب معدات</h3>
                         
                     </div>
@@ -27,7 +27,7 @@
                 </div>
                 <img class="pic" src="فهرس.png">
                 <div class="card-action">
-                    <a href="#" id="pic1" class="btn btn-block btn-large green"> إنشاء حساب </a>
+                    <a href="#" id="pic1" class="btn btn-block btn-large blue"> إنشاء حساب </a>
                 </div>
             </div>
         </div>
@@ -46,7 +46,7 @@
         <div class="col s12 m4">
             <div class="card">
                 <div class="card-content">
-                    <div class="card-title green white-text">
+                    <div class="card-title yellow white-text">
                         <h3>مهندس</h3>
                         
                     </div>
@@ -58,7 +58,7 @@
                 <img class="pic" src="iconend.png">
                 <div class="card-action">
                     
-                    <a href="#" id="pic1" class="btn btn-block btn-large blue">إنشاء حساب </a>
+                    <a href="#" id="pic1" class="btn btn-block btn-large yellow">إنشاء حساب </a>
                     </div>
             </div>
         </div>

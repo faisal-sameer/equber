@@ -32,11 +32,16 @@ ul li {
     transition: .5s;
 }
 
+
 #pic1{
    font-weight: bold;
     font-size: 230%;
 }
 
+#pic1:hover{
+   
+    color:black;
+}
 .pic{
  width: 20%;
 margin:auto;
