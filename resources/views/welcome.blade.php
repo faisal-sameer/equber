@@ -58,7 +58,7 @@
                 <img class="pic" src="iconend.png">
                 <div class="card-action">
                     
-                    <a href="#" id="pic1" class="btn btn-block btn-large yellow">إنشاء حساب </a>
+                    <a href="/register" id="pic1" class="btn btn-block btn-large yellow">إنشاء حساب </a>
                     </div>
             </div>
         </div>
